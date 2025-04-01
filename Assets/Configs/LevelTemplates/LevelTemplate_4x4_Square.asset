@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ac549a9e2698043ae36fded9ac98aa, type: 3}
+  m_Name: LevelTemplate_4x4_Square
+  m_EditorClassIdentifier: 
+  rowCount: 4
+  columnCount: 4
+  levelWinRules:
+  - WinType: 3
+    WinTileAmount: 2
+  displayName: 4x4 Square
+  icon: {fileID: 21300000, guid: bc13cd87fcd9bf348bcfb0249f975492, type: 3}
+  description: 'Win with any of the following: <br> 4 in a square'

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ddad7d8a7363348adbede92a79f120, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  levelTemplates:
+  - {fileID: 11400000, guid: a26d4e21726dd5b4f8c1f0350a4b989c, type: 2}
+  - {fileID: 11400000, guid: 8a9925277864bf04c90fdc3014816437, type: 2}
+  - {fileID: 11400000, guid: 9aaf99fc2e231c143bfac5a06fd6bcb7, type: 2}
+  - {fileID: 11400000, guid: f4780c9f84604fc408dc5f1dddf2753d, type: 2}
+  - {fileID: 11400000, guid: 01ac9d969aed1274da2f99dc325e5e86, type: 2}
+  - {fileID: 11400000, guid: dc7cb04fe8100c647b73cab1fd545b7d, type: 2}
+  - {fileID: 11400000, guid: 0956e04a4cb3d2d4aa29ea77d42476e5, type: 2}
+  - {fileID: 11400000, guid: 48e4deafd37e34246967ebbb868af200, type: 2}
+  defaultLevelTemplate: {fileID: 11400000, guid: a26d4e21726dd5b4f8c1f0350a4b989c, type: 2}
+  characterTemplates:
+  - {fileID: 11400000, guid: e24545cc548e8ad418882942c429547a, type: 2}
+  - {fileID: 11400000, guid: 6db886cb06cd5a54895186efb143c3b9, type: 2}
+  - {fileID: 11400000, guid: ab27e023612a9b047becd91215aefd59, type: 2}
+  - {fileID: 11400000, guid: fb152bde6dee71448a97fb560bbd4fd7, type: 2}
+  - {fileID: 11400000, guid: 76ffa6f67fab35e4a8d6d9c7b8c626e4, type: 2}
+  - {fileID: 11400000, guid: 8f206c8a9ecf36f4fb59c400b8c93831, type: 2}
+  - {fileID: 11400000, guid: 22b69824c4900c74fb4018794b8af4e8, type: 2}
+  - {fileID: 11400000, guid: 5797c25f7d09e074789a65a16b3f8414, type: 2}
+  - {fileID: 11400000, guid: 1d90b1d4d0f5457438db4c3c371cfbf7, type: 2}
+  - {fileID: 11400000, guid: f89ac79311342c841aae21e34031d260, type: 2}
+  - {fileID: 11400000, guid: 0bf1b46044cc4194dbd5dcb5cc057d65, type: 2}
+  - {fileID: 11400000, guid: 975e837dc35fef543bba9da5703154ca, type: 2}
+  - {fileID: 11400000, guid: b41e95fdc5928254691c05c09d070d0f, type: 2}
+  - {fileID: 11400000, guid: 2553cadddeee6f94ebf32c2f53c20857, type: 2}
+  - {fileID: 11400000, guid: 120f93c2c14ab674191f1444feab04c5, type: 2}
+  - {fileID: 11400000, guid: 8dbcf20f562fbad4a9e3a6f80d75951b, type: 2}
+  - {fileID: 11400000, guid: 26ecdded427be3249b884288756306fb, type: 2}
+  - {fileID: 11400000, guid: 40d49bd6f88904f4f90da6529f3470df, type: 2}
+  - {fileID: 11400000, guid: 33da978099a81fa4abf8fbfb6b74e1c3, type: 2}
+  - {fileID: 11400000, guid: 9b76911c63826264ba4ddebff068136c, type: 2}
+  - {fileID: 11400000, guid: 3ebb2031db9b16e46b8dc6fe5efbf028, type: 2}
+  - {fileID: 11400000, guid: 9101e645b717e7448a2fb809391afb1f, type: 2}
+  - {fileID: 11400000, guid: 7db848ce6dd3e0443b6292f66fe490f3, type: 2}
+  - {fileID: 11400000, guid: cbd2aac3233240045bacfc48ce0659b0, type: 2}
+  playerHumanTemplate: {fileID: 11400000, guid: 22614247e902aa546b0f8d7a8f5aff91, type: 2}
+  playerComputerTemplate: {fileID: 11400000, guid: da5d5d260b7893740b07c0ec7ca5b2b2, type: 2}
+  player1DefaultValues:
+    DefaultName: Player 1
+    DefaultColor: {r: 0, g: 0, b: 1, a: 1}
+    DefaultPlayer: {fileID: 11400000, guid: 22614247e902aa546b0f8d7a8f5aff91, type: 2}
+    DefaultCharacter: {fileID: 11400000, guid: 33da978099a81fa4abf8fbfb6b74e1c3, type: 2}
+  player2DefaultValues:
+    DefaultName: Player 2
+    DefaultColor: {r: 1, g: 0, b: 0, a: 1}
+    DefaultPlayer: {fileID: 11400000, guid: da5d5d260b7893740b07c0ec7ca5b2b2, type: 2}
+    DefaultCharacter: {fileID: 11400000, guid: e24545cc548e8ad418882942c429547a, type: 2}

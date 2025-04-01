@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 125f03c6911d7e44aba0cbbc6b281601
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greek-alphabet-set_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08570390a4b99479ec5c1b67da1e25
+      internalID: 1735359279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283155b387a3ff64fb52a8d0ee75463e
+      internalID: 1680455023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7dd33838fc2541a1c3c199079db88
+      internalID: -1086045491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84f6aab6650954f80ffd4c52f7224b
+      internalID: -1661268044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844a205723331241ad05a4098ef7b40
+      internalID: -711798605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc18d3dd0049ba49b53bc6766588af7
+      internalID: -1156525086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c538d5ee4b12bd4d97a9e503657d8d3
+      internalID: 571525708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 705
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46e7c1f23a56b44bd2341ec75c5166
+      internalID: 453219370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407bdaa0762c80f44a26b58a1f503344
+      internalID: 1962027910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3df56677cc0040987240d4f20613d
+      internalID: 2004381954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad8fed371ca89545b8a036c3c1b064b
+      internalID: 1877549406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8792855cd8bf0438909ff591de4922
+      internalID: -1552712156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24f1aab7d222fc4e84ead58ef162a6c
+      internalID: 376860822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974708e5b6601964a98682886a5438cf
+      internalID: 2116627546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8cc688714d0214d85cc2a22b7ce5c4
+      internalID: 62538377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ace37b53127344b55393192bbd466
+      internalID: 1255804781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e136a9eeda89498aa9aeb4feff749
+      internalID: -116030721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5316074b2b96c44da8e2615e8b4e5ba
+      internalID: -159402714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4d32b8557de640a5c54337661799f
+      internalID: -852187129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14370cdeca0161f4085e4fe947416805
+      internalID: -1223812099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bacf33a4182d3b4ab6b4740a79591d2
+      internalID: -1935061386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9c0d9a3b77e0408ee925fbf777310
+      internalID: 41790420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aeba478a7e8d748bbd51fc197f2563
+      internalID: 1822068914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 455
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89593592947186042a8a3642adce1858
+      internalID: -287317815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151a1ee1aba325041ac750d2d2d317de
+      internalID: 1724071743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8093f26f3f2f14ab720133691df2fa
+      internalID: 928273839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ea703936ee824897c1b0fcc6ece37
+      internalID: -397098108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b17449c4a893c49a75ed8a4d809fa9
+      internalID: -1269186895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe43487df241845bfefce93273340e
+      internalID: -1648173068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaabafe806ca51458027896cb7d7053
+      internalID: -1797807828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca051eaf2fd3754c841e40bb642d719
+      internalID: -1322760460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 330
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1e950fa5b98f4498e03dd46fb2c48
+      internalID: 929792255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307aa824a4146294c936aad5696756e6
+      internalID: 775579655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a99e63ebcee2444b628265f29a4db5
+      internalID: -698572769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c04abbf8596040ac3258245dd3dab
+      internalID: -1977266995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e01debb12b07e4db52a136862cf9f0
+      internalID: 599482305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff0764dbf7af9a4886157b507a30806
+      internalID: -1455959054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b723ee570601bf84bbf008e1d0d51b7d
+      internalID: -1711949243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774028c8e9fc9cf4c860ebdb34ecab05
+      internalID: -503490630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 205
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f3947694625b34bacbdcac24ecb4be
+      internalID: 747423365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e439829ffc3c24bac493286bd4c84b
+      internalID: 47572288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d15e9e9452ef4e9d8d519c4b565ca
+      internalID: 101311563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba44781a6525c2b4b9af424f2ed3d98e
+      internalID: 1603291588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16a3ffdc0f47e42a21df9ef656b0a2
+      internalID: 1415624548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1435c7f093a0364594e3a4d6094f1cf
+      internalID: -607561972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80e0017423ab54f888fb30dd66a2d4
+      internalID: 1850348055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0666be472488499c35e00c332705a
+      internalID: -995813596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek-alphabet-set_47
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 80
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1225f70dbd1c63546876647a850b413f
+      internalID: 1599112896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      greek-alphabet-set_24: 1724071743
+      greek-alphabet-set_35: 599482305
+      greek-alphabet-set_14: 62538377
+      greek-alphabet-set_30: -1322760460
+      greek-alphabet-set_33: -698572769
+      greek-alphabet-set_40: 47572288
+      greek-alphabet-set_37: -1711949243
+      greek-alphabet-set_1: 1680455023
+      greek-alphabet-set_34: -1977266995
+      greek-alphabet-set_28: -1648173068
+      greek-alphabet-set_39: 747423365
+      greek-alphabet-set_2: -1086045491
+      greek-alphabet-set_20: -1935061386
+      greek-alphabet-set_3: -1661268044
+      greek-alphabet-set_12: 376860822
+      greek-alphabet-set_31: 929792255
+      greek-alphabet-set_13: 2116627546
+      greek-alphabet-set_44: -607561972
+      greek-alphabet-set_8: 1962027910
+      greek-alphabet-set_36: -1455959054
+      greek-alphabet-set_42: 1603291588
+      greek-alphabet-set_43: 1415624548
+      greek-alphabet-set_16: -116030721
+      greek-alphabet-set_38: -503490630
+      greek-alphabet-set_5: -1156525086
+      greek-alphabet-set_4: -711798605
+      greek-alphabet-set_27: -1269186895
+      greek-alphabet-set_11: -1552712156
+      greek-alphabet-set_18: -852187129
+      greek-alphabet-set_45: 1850348055
+      greek-alphabet-set_6: 571525708
+      greek-alphabet-set_19: -1223812099
+      greek-alphabet-set_47: 1599112896
+      greek-alphabet-set_23: -287317815
+      greek-alphabet-set_17: -159402714
+      greek-alphabet-set_0: 1735359279
+      greek-alphabet-set_21: 41790420
+      greek-alphabet-set_41: 101311563
+      greek-alphabet-set_32: 775579655
+      greek-alphabet-set_46: -995813596
+      greek-alphabet-set_26: -397098108
+      greek-alphabet-set_10: 1877549406
+      greek-alphabet-set_7: 453219370
+      greek-alphabet-set_15: 1255804781
+      greek-alphabet-set_22: 1822068914
+      greek-alphabet-set_25: 928273839
+      greek-alphabet-set_29: -1797807828
+      greek-alphabet-set_9: 2004381954
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

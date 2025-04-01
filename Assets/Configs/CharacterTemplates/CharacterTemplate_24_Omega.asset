@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25093cd0bd74b6242a1b9a8c04f7c923, type: 3}
+  m_Name: CharacterTemplate_24_Omega
+  m_EditorClassIdentifier: 
+  characterName: Omega
+  characterSprite: {fileID: 1599112896, guid: 125f03c6911d7e44aba0cbbc6b281601, type: 3}

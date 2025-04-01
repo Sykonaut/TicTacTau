@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ac549a9e2698043ae36fded9ac98aa, type: 3}
+  m_Name: LevelTemplate_3x3_Basic
+  m_EditorClassIdentifier: 
+  rowCount: 3
+  columnCount: 3
+  levelWinRules:
+  - WinType: 0
+    WinTileAmount: 3
+  - WinType: 1
+    WinTileAmount: 3
+  - WinType: 2
+    WinTileAmount: 3
+  displayName: 3x3 Basic
+  icon: {fileID: 21300000, guid: 356aa69c4e2addd42acb51cacba14069, type: 3}
+  description: 'Win with any of the following: <br> 3 in a row <br> 3 in a column
+    <br> 3 in a diagonal'

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ac549a9e2698043ae36fded9ac98aa, type: 3}
+  m_Name: LevelTemplate_4x4_Basic
+  m_EditorClassIdentifier: 
+  rowCount: 4
+  columnCount: 4
+  levelWinRules:
+  - WinType: 0
+    WinTileAmount: 4
+  - WinType: 1
+    WinTileAmount: 4
+  - WinType: 2
+    WinTileAmount: 4
+  displayName: 4x4 Basic
+  icon: {fileID: 21300000, guid: 1ed5d846147de9a448697d3fd7db3ee5, type: 3}
+  description: 'Win with any of the following: <br> 4 in a row <br> 4 in a column
+    <br> 4 in a diagonal'
